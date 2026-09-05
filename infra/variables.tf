@@ -10,7 +10,7 @@ variable "aws_region" {
 
 variable "bucket_name" {
 
-  description = "devsecops-lab-carballo-2026"
+  description = "devsecops-lab-carballoesen-2026"
 
   type = string
 
